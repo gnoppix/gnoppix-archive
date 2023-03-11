@@ -1,0 +1,18 @@
+Origin: Gnoppix Repository
+Label: gnoppix
+Suite: community 
+Codename: community
+Version: 1.0
+Architectures: amd64 arm64 arm7
+Components: main
+Description: Gnoppix Software Repository
+Date: Sat, 11 Mar 2023 15:28:51 +0000
+MD5Sum:
+ 7ff5de4cf1656189fca0f81087c0ca67 406 main/binary-amd64/Packages
+ f813d857702927fd934ceecce2a38fa1 307 main/binary-amd64/Packages.gz
+SHA1:
+ bb9ec96f4de2dcc45934220dadb0903d398f2cc8 406 main/binary-amd64/Packages
+ 2147f3c1354f47ff4fc08d83c9d2e60e0ca3f0e2 307 main/binary-amd64/Packages.gz
+SHA256:
+ 5a01fe2b8ea9b3c1e452a64f16ac1706b5417f58da625cc37e804a5e7621d6d1 406 main/binary-amd64/Packages
+ 8d659ce77daa9c42a23a22df124c990e716d1ec60a5ec4aa0fd33b9e944c8f9a 307 main/binary-amd64/Packages.gz
