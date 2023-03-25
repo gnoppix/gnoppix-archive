@@ -1,3 +1,27 @@
+Package: calamares-settings-gnoppix
+Version: 23.3.24-1
+Architecture: all
+Maintainer: Jonathan Carter <jcc@debian.org>
+Installed-Size: 463
+Depends: calamares, cryptsetup, keyutils, qml-module-qtquick-window2, qml-module-qtquick2, dconf-gsettings-backend | gsettings-backend
+Provides: calamares-settings
+Filename: pool/main/calamares-settings-gnoppix_23.3.24-1_all.deb
+Size: 325700
+MD5sum: d19c1d3735d26bfe432cd0ed9905c47f
+SHA1: 3683d8db364d9c802a02989f9cb609bdaea856f3
+SHA256: e6185be14119af3a217d53b804159fdfd0163aaf9ed1e8c9fae2eb34411e242e
+Section: utils
+Priority: optional
+Homepage: https://salsa.debian.org/live-team/calamares-settings-debian
+Description: Gnoppix theme and settings for the Calamares Installer
+ Calamares is a generic installer framework for Linux distributions.
+ By default, it contains a set of boilerplate wording and images. This
+ package provides the latest Gnoppix artwork as well as scripts that
+ supports EFI installations.
+ .
+ It also serves as an example for how derivatives can create their own
+ calamares-settings packages.
+
 Package: hello-world
 Version: 0.0.1
 Architecture: amd64

@@ -3,16 +3,22 @@ Label: gnoppix
 Suite: community 
 Codename: community
 Version: 1.0
-Architectures: amd64 arm64 arm7
+Architectures: amd64 i386 arm64 arm7
 Components: main
 Description: Gnoppix Software Repository
-Date: Sat, 11 Mar 2023 15:28:51 +0000
+Date: Sat, 25 Mar 2023 03:03:19 +0000
 MD5Sum:
- 7ff5de4cf1656189fca0f81087c0ca67 406 main/binary-amd64/Packages
- f813d857702927fd934ceecce2a38fa1 307 main/binary-amd64/Packages.gz
+ f150af5eec2b6479136bedbcf7129a16 1463 main/binary-amd64/Packages
+ 70799fff272d45c52198f80e30a21de9 822 main/binary-amd64/Packages.gz
+ 55a03ae8081d9a2f0cfd45fe3de43077 862 Release.gpg
+ 38482ba7578062524cbf949d8f418d9b 2449 InRelease
 SHA1:
- bb9ec96f4de2dcc45934220dadb0903d398f2cc8 406 main/binary-amd64/Packages
- 2147f3c1354f47ff4fc08d83c9d2e60e0ca3f0e2 307 main/binary-amd64/Packages.gz
+ d27dfcffcc166926fc95a8acb8ed135f294fda0b 1463 main/binary-amd64/Packages
+ 9b8f62b3156e23a35b7a5de1ab32c07bb95204c6 822 main/binary-amd64/Packages.gz
+ ffed995464cf2023055fbae1ccc2b8aa6baaba94 862 Release.gpg
+ 2a085dac37ee9e890136facaa03fb752aea1aab4 2449 InRelease
 SHA256:
- 5a01fe2b8ea9b3c1e452a64f16ac1706b5417f58da625cc37e804a5e7621d6d1 406 main/binary-amd64/Packages
- 8d659ce77daa9c42a23a22df124c990e716d1ec60a5ec4aa0fd33b9e944c8f9a 307 main/binary-amd64/Packages.gz
+ 9c837aeea6c9ab397539ec232bf5caa7412a1408405dc6002f7e853ccd815eb5 1463 main/binary-amd64/Packages
+ cf34427f9e98a44b8dc3014a2aaa315a95eb136bb58cba9edbb19dcf8998c4e6 822 main/binary-amd64/Packages.gz
+ 26d4697a3e96ae7276974390fca46aa146de3d78789d2210ee0c27e67c3de3c8 862 Release.gpg
+ c4f19f39895a8eb800be856cb2e6f39ce0610830d117479be877ad8c28c0dc57 2449 InRelease

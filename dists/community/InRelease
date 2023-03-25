@@ -6,33 +6,39 @@ Label: gnoppix
 Suite: community 
 Codename: community
 Version: 1.0
-Architectures: amd64 arm64 arm7
+Architectures: amd64 i386 arm64 arm7
 Components: main
 Description: Gnoppix Software Repository
-Date: Sat, 11 Mar 2023 15:28:51 +0000
+Date: Sat, 25 Mar 2023 03:03:19 +0000
 MD5Sum:
- 7ff5de4cf1656189fca0f81087c0ca67 406 main/binary-amd64/Packages
- f813d857702927fd934ceecce2a38fa1 307 main/binary-amd64/Packages.gz
+ f150af5eec2b6479136bedbcf7129a16 1463 main/binary-amd64/Packages
+ 70799fff272d45c52198f80e30a21de9 822 main/binary-amd64/Packages.gz
+ 55a03ae8081d9a2f0cfd45fe3de43077 862 Release.gpg
+ 38482ba7578062524cbf949d8f418d9b 2449 InRelease
 SHA1:
- bb9ec96f4de2dcc45934220dadb0903d398f2cc8 406 main/binary-amd64/Packages
- 2147f3c1354f47ff4fc08d83c9d2e60e0ca3f0e2 307 main/binary-amd64/Packages.gz
+ d27dfcffcc166926fc95a8acb8ed135f294fda0b 1463 main/binary-amd64/Packages
+ 9b8f62b3156e23a35b7a5de1ab32c07bb95204c6 822 main/binary-amd64/Packages.gz
+ ffed995464cf2023055fbae1ccc2b8aa6baaba94 862 Release.gpg
+ 2a085dac37ee9e890136facaa03fb752aea1aab4 2449 InRelease
 SHA256:
- 5a01fe2b8ea9b3c1e452a64f16ac1706b5417f58da625cc37e804a5e7621d6d1 406 main/binary-amd64/Packages
- 8d659ce77daa9c42a23a22df124c990e716d1ec60a5ec4aa0fd33b9e944c8f9a 307 main/binary-amd64/Packages.gz
+ 9c837aeea6c9ab397539ec232bf5caa7412a1408405dc6002f7e853ccd815eb5 1463 main/binary-amd64/Packages
+ cf34427f9e98a44b8dc3014a2aaa315a95eb136bb58cba9edbb19dcf8998c4e6 822 main/binary-amd64/Packages.gz
+ 26d4697a3e96ae7276974390fca46aa146de3d78789d2210ee0c27e67c3de3c8 862 Release.gpg
+ c4f19f39895a8eb800be856cb2e6f39ce0610830d117479be877ad8c28c0dc57 2449 InRelease
 -----BEGIN PGP SIGNATURE-----
 
-iQJIBAEBCgAyFiEEX6ky6KCZb6xzoU5VSEmuhN5Jj9wFAmQNR+kUHGdub3BwaXhA
-Z25vcHBpeC5jb20ACgkQSEmuhN5Jj9wgKg/+JM6qG2D/mB5LYAs6FC/lN/c8PsEy
-+IUwCPMd+x9Grc6PRVDCr02go+s3Q+78IgF7DjbJpJxWukMaAyB4FavIyiBRqR9t
-YnfuCGk3glcuO6KEzABNeFOtQHT5tci9DVTSnj51Xi3FJbApoCDMmH9oKCwDOOLo
-92j8lJOpKiR0YR+JmFF993IJjIrZ341DJk5NZI2UvbS02SjrkIuVkoYcwnPnZ3t6
-hhTi1sp1mFRbwmChu0LM+bNekCgbZFAd6YoEhwAb87NK9QcnMJBTjsYj+xbsQal1
-a449xY7qJzFXEmO6mrKNUFg3HwF7x2yiX3uUfEXldfL8eOdgt0YRmdXP3fmDTVEc
-BOtdwKuG+0sK/wNI7ubgId6Dc+brSljDMHtzTg6grHetqhbo9PE0rwku7oINbwUR
-3og5vDweSd75k2NKoET3PDrKxrtFMnhuE47FD7PKH7TiLI6QUUMZrBmNTCCDOH3D
-LdR76yKlnKk2ZD/wcT56XF7hWPPGqR9kihMiE0o66nR04IzlM1599PZWqG4NG77N
-6SKHfOfyYOfScQE6J/w94RVx09u6vrHlxLStjisbnZXMUdV3G0bVHSChXIlFj7mB
-iHJu7PbeNHdzKnYKrDZuIHqCrqD3EWkDIEi4Sde4bNP8/QMQibtsgoR/o/VO18Gi
-4MjJIkdZcGFCqLA=
-=HgvG
+iQJIBAEBCgAyFiEEX6ky6KCZb6xzoU5VSEmuhN5Jj9wFAmQeZJwUHGdub3BwaXhA
+Z25vcHBpeC5jb20ACgkQSEmuhN5Jj9x5IQ/9EQXjMEV2FwsmC1/wDYJSLtokdlBB
+vVNlvBtepr6IRB42sDLfMDZilHkEqOOzfpofQtaMifrveHoJzwJmd675SZ3TY6Ax
+EBbIi41CWOQGPwflTi+fjDHQeZLKu41Wd9qG4NAzeBhFM7F0wKHvjS7Fj1UJd+aM
+77z9YrjTAfoJNiwheLXqAJkTh9Oh9QxEKTcIP0np3Mj81+QTabFQ2wsAoDHq5bU1
+u7dAJdWP/rBJ1k4pbv9cA2hpDFCVy0HQ76E4K0q8DQwFhJath9pDNT7nF599l1fc
+Ixgn6LLj8exiYcjJU56GBO8lB7Qf4DG1KQ41CGrdvIH96SVhGzT0M7j8tVXiW45H
+ljp2tMZrk0S7GRBxwskQ1CKQuoWp2s/55KgPBeRoQHRDJ5HqfXTo0aonKwaWQWXc
+AYL/TRYAu+wJkOQyask5lGwBbPin7MwTyjulA197IeAHhuoxU/+cA4sl8KVonFxH
+bEEZvfFMuYJk/ik6/T40d4tzaMoM516nl6a6ouLZd7dYp52xCV2F0mi6/FyqH0WP
+Wcza2kZPe24bJG5Maq/WzxXlKWaF0Au1y1M7IhodFlIfEIl48S0cmNu7PD9DW5Iz
+3mmw3I8Ei5HZnbIApEGrvMURl98jWp70znnT+pF5WkuDmImGjidpdoutKqLG3VyS
+kLydYC3GpG1rJkU=
+=bqdX
 -----END PGP SIGNATURE-----
